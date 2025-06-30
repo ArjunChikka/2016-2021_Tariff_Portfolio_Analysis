@@ -18,7 +18,7 @@ tariff_portfolio_analysis/
 ## Setup & Usage
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/ArjunChikka/Tariff_Portfolio_Analysis
    cd tariff_portfolio_analysis
    ```
 2. (Optional) Create a virtual environment:
