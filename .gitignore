@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Editor directories
+.vscode/
+.idea/
+
+# macOS Finder files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Cached data or large raw data
+data/
+
+# Images (if you regenerate locally)
+images/
+
+# Distribution / build artifacts
+dist/
+build/
+*.egg-info/
