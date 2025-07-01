@@ -13,9 +13,6 @@ tariff_portfolio_analysis/
 ├── README.md
 ├── requirements.txt
 ├── Portfolio_Writeup.ipynb
-├── images/
-│   ├── regime_weights.png
-│   └── normalized_performance.png
 └── LICENSE
 ```
 
