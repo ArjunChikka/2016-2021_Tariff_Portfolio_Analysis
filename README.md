@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/ArjunChikka/2016-2021_Tariff_Portfolio_Analysis/blob/main/Portfolio_Writeup.ipynb
+  https://colab.research.google.com/github/ArjunChikka/2016-2021_Tariff_Portfolio_Analysis/blob/main/Tariffs_Writeup_Extensive.ipynb
 )
 
 # Tariff Portfolio Analysis
@@ -22,7 +22,7 @@ tariff_portfolio_analysis/
 ## Setup & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArjunChikka/Tariff_Portfolio_Analysis
+   git clone https://github.com/ArjunChikka/2016-2021_Tariff_Portfolio_Analysis
    cd tariff_portfolio_analysis
    ```
 2. (Optional) Create a virtual environment:
