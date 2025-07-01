@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/ArjunChikka/2016-2021_Tariff_Portfolio_Analysis/blob/main/Portfolio_Writeup.ipynb
+)
+
 # Tariff Portfolio Analysis
 
 ## Project Overview
