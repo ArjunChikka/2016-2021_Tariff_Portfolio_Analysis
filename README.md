@@ -58,13 +58,11 @@ where $\mu$ and $\Sigma$ are the annualized mean and covariance of regime return
 - **Regime Segmentation:** Essential for robust, adaptive portfolio design under policy shocks.
 
 ## Repository Structure
-```text
 2016-2021_Tariff_Portfolio_Analysis/
 ├── Tariffs_Writeup_Extensive.ipynb
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-```
 
 ## Setup & Usage
 1. **Clone**  
