@@ -66,9 +66,9 @@ where $\mu$ and $\Sigma$ are the annualized mean and covariance of regime return
 
 ## Setup & Usage
 1. **Clone**  
-   ```bash
-   git clone https://github.com/ArjunChikka/2016-2021_Tariff_Portfolio_Analysis.git
-   cd 2016-2021_Tariff_Portfolio_Analysis
+```bash
+git clone https://github.com/ArjunChikka/2016-2021_Tariff_Portfolio_Analysis.git
+cd 2016-2021_Tariff_Portfolio_Analysis
    ```
 2. **Env & Install**
   ```bash
