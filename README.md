@@ -17,15 +17,8 @@ This case study investigates the sensitivity and robustness of U.S. equity portf
 - Returns are partitioned by date ranges to isolate policy-driven regime effects.
 
 ## Portfolio Optimization
-We solve for each regime:
-
-<p align="center">
-  <img
-    src="https://latex.codecogs.com/png.latex?%5Cmax_%7Bw%5Cge0%2C%5Cmathbf%7B1%7D%5E%5Ctop%20w%3D1%7D%20%5Cfrac%7Bw%5E%5Ctop%20%5Cmu%20-%20r_f%7D%7B%5Csqrt%7Bw%5E%5Ctop%20%5CSigma%20w%7D%7D"
-    alt="Sharpe-ratio optimization"
-  />
-</p>
-
+We solve each regime by maximizing the Sharpe ratio:  
+$\displaystyle \max_{w \ge 0,\;\mathbf{1}^\top w = 1}\frac{w^\top \mu - r_f}{\sqrt{w^\top \Sigma\,w}}$  
 
 where $\mu$ and $\Sigma$ are the annualized mean and covariance of regime returns, and $r_f=2\\%$. Optimization uses SciPy’s `minimize` on the negative Sharpe ratio.
 
