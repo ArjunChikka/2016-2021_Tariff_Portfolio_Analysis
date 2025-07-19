@@ -13,7 +13,7 @@ This case study investigates the sensitivity and robustness of U.S. equity portf
 ## Regime Segmentation
 - **Pre-Tariff (2016–2017):** Steady growth, low trade tensions.
 - **Tariff Escalation (2018–2019):** Rapid volatility spikes amid U.S.–China tariff announcements.
-- **Post-Tariff Recovery (2020–2021):** Market stabilization and recovery.
+- **Post-Tariff Recovery (2020–2021):** COVID shocks, market stabilization, and recovery.
 - Returns are partitioned by date ranges to isolate policy-driven regime effects.
 
 ## Portfolio Optimization
