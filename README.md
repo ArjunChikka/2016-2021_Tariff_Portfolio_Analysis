@@ -18,10 +18,15 @@ This case study investigates the sensitivity and robustness of U.S. equity portf
 
 ## Portfolio Optimization
 We solve for each regime:
-![Sharpe‐opt](https://latex.codecogs.com/png.latex?
-  \max_{w\ge0,\;\mathbf{1}^\top%20w=1}
-  \frac{w^\top\mu - r_f}{\sqrt{w^\top\Sigma\,w}}
-)
+<p align="center">
+  <img
+    src="https://latex.codecogs.com/png.latex?
+      \max_{w\ge0,\;\mathbf{1}^\top w=1}
+      \frac{w^\top\mu - r_f}{\sqrt{w^\top\Sigma\,w}}
+    "
+    alt="Sharpe-ratio optimization"
+  />
+</p>
 where $\mu$ and $\Sigma$ are the annualized mean and covariance of regime returns, and $r_f=2\%$. Optimization uses SciPy’s `minimize` on the negative Sharpe ratio.
 
 ## Backtesting Framework
