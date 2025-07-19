@@ -57,12 +57,14 @@ where $\mu$ and $\Sigma$ are the annualized mean and covariance of regime return
 - **Calm-Period Training:** May over-fit and suffer when shock arrives.  
 - **Regime Segmentation:** Essential for robust, adaptive portfolio design under policy shocks.
 
+```text
 ## Repository Structure
 2016-2021_Tariff_Portfolio_Analysis/
 ├── Tariffs_Writeup_Extensive.ipynb
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 ## Setup & Usage
 1. **Clone**  
