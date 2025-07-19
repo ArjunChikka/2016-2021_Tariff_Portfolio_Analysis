@@ -21,7 +21,7 @@ We solve for each regime:
 
 <p align="center">
   <img
-    src="https://latex.codecogs.com/png.latex?\max_{w\geq0,\mathbf{1}^\top%20w=1}\frac{w^\top\mu%20-%20r_f}{\sqrt{w^\top\Sigma%20w}}"
+    src="https://latex.codecogs.com/png.latex?%5Cmax_%7Bw%5Cge0%2C%5Cmathbf%7B1%7D%5E%5Ctop%20w%3D1%7D%20%5Cfrac%7Bw%5E%5Ctop%20%5Cmu%20-%20r_f%7D%7B%5Csqrt%7Bw%5E%5Ctop%20%5CSigma%20w%7D%7D"
     alt="Sharpe-ratio optimization"
   />
 </p>
